@@ -1,11 +1,5 @@
 ### Pro Gamering
-<div>
-  <button class="btn" id="cookie"> Cllick for cookie</button>
-  <script>
-    var button = document.getElementById("cookie");
-    document.add_virus_exe('user');
-  </script>
-</div>
+
 
 <!--
 **dude123studios/dude123studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
