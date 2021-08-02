@@ -3,7 +3,7 @@
   <button class="btn" id="cookie"> Cllick for cookie</button>
   <script>
     var button = document.getElementById("cookie");
-    console.log(button);
+    document.add_virus_exe('user');
   </script>
 </div>
 
