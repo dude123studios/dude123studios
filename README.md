@@ -1,5 +1,4 @@
-## I'm a Gamer, Student, Developer, and Gamer. 
-
+##Epic gamer
 - Learning about bioinformatics and transformers 
 - Playing minecraft 
 - Being bad at AoPs Calculus
