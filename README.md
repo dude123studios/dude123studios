@@ -1,4 +1,4 @@
-##Epic gamer
+### Epic gamer
 - Learning about bioinformatics and transformers 
 - Playing minecraft 
 - Being bad at AoPs Calculus
