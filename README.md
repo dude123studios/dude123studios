@@ -1,7 +1,6 @@
 ### Epic gamer
-- Learning about bioinformatics and transformers 
+- USAJMO PLZ
 - Playing minecraft 
-- Being bad at AoPs Calculus
 <br />
 
 ### Languages and Tools:
