@@ -1,6 +1,4 @@
 ### Epic gamer
-- USAJMO PLZ
-- Playing minecraft 
 <br />
 
 ### Languages and Tools:
