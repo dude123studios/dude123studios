@@ -1,4 +1,4 @@
-### Epic gamer
+### Deep Learning Researcher
 <br />
 
 ### Languages and Tools:
