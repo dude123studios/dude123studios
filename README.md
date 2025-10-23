@@ -1,33 +1,71 @@
-### Deep Learning Researcher
-<br />
+# 👋 Hi, I'm Atharv M. Naphade (he/him)
 
-### Languages and Tools:
+🚀 **AI Researcher & Software Engineer**  
+💡 Building at the intersection of Machine Learning, Reasoning, and Systems Design.  
+🌍 Based in California 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Pytorch" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.O1qZr9uWL9HE8ut78-y5AgHaDt&pid=Api&P=0&w=323&h=162" />
-<img align="left" alt="Tensorflow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /><img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="USACO" width="50px" src="https://rohanj.dev/assets/images/usaco.png" />
-
-<img align="left" alt="AoPs" width="50px" src="https://buchanandesign.com/wp-content/uploads/2018/12/AOPS_Logo_Before.jpg" />
-<img align="left" alt="Minecraft" width="50px" src="http://www.symbols.com/gi.php?type=1&id=2842&i=1" />
-<img align="left" alt="Youtube" width="50px" src="https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png" />
-<img align="left" alt="USACO" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/><img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C++" width="50px" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12984007/c-plus-plus-program-logo-image.png" />
-<br />
-<br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 ---
 
+### 🧑‍💻 About Me
+- 🎓 I’m passionate about **AI safety, interpretability, and reasoning-efficient LLMs**.  
+- 🔬 My work explores **subthought decomposition**, **robust watermarking**, and **graph-inspired transformer sparsity**.  
+- 💼 Experienced in **full-stack software**, **automation tools**, and **quantitative systems**.  
+- 🌱 Currently experimenting with **causal reasoning in synthetic data generation** and **step-level analogical RAG**.
+
+---
+
+### 🧠 Featured AI & ML Projects
+
+| 🔬 Project | 💡 Description | 🧰 Tech Stack |
+|-------------|----------------|---------------|
+| [**analyze_subthoughts**](https://github.com/dude123studios/analyze_subthoughts) | Toolkit for analyzing subthoughts and intermediate reasoning in LLMs. | `Python`, `Jupyter`, `NumPy`, `LLM Tracing` |
+| [**robust-watermarking**](https://github.com/dude123studios/robust-watermarking) | Research on resilient watermarking for generative models. | `Python`, `Transformers`, `Adversarial ML` |
+| [**AdvancedGenerativeLearning**](https://github.com/dude123studios/AdvancedGenerativeLearning) | GAN architectures for multimodal unsupervised generation. | `TensorFlow`, `GANs`, `VAE` |
+| [**AdvancedReinforcementLearning**](https://github.com/dude123studios/AdvancedReinforcementLearning) | Reinforcement learning with Gym + TensorFlow. | `Python`, `OpenAI Gym`, `TensorFlow` |
+| [**TransformerLearning**](https://github.com/dude123studios/TransformerLearning) | Hands-on experiments with transformer architectures for NLP. | `PyTorch`, `NLP`, `Seq2Seq` |
+
+---
+
+### ⚙️ Software Engineering Projects
+
+| 💻 Project | 🧩 Description | 🧰 Tech Stack |
+|-------------|----------------|---------------|
+| [**Legal-Assist-Pro**](https://github.com/dude123studios/Legal-Assist-Pro) | AI-powered legal assistant for document understanding and automation. | `TypeScript`, `Next.js`, `OpenAI API` |
+| [**Pellucid**](https://github.com/dude123studios/Pellucid) | Experimental Python app for clarity in visualizing AI reasoning. | `Python`, `Flask`, `DataViz` |
+| [**TradingBots**](https://github.com/dude123studios/TradingBots) | Algorithmic trading bots leveraging RL and time-series models. | `Python`, `Pandas`, `RL` |
+| [**smilecook**](https://github.com/dude123studios/smilecook) | Large API project to master backend development. | `Python`, `FastAPI`, `SQLAlchemy` |
+| [**rockPaperScissors**](https://github.com/dude123studios/rockPaperScissors) | Multiplayer socket-based game engine. | `Python`, `Sockets`, `Networking` |
+
+---
+
+### 🧭 Currently Exploring
+- 🧮 **Mathematical reasoning in LLMs** — improving logical consistency via subthought embedding.  
+- 🌐 **Web agents** — studying security vulnerabilities and failure modes.  
+- 🧬 **Synthetic data quality** — mitigating long-tail collapse in generative data distributions.  
+- ⚙️ **Efficient Transformer architectures** — leveraging graph-theoretic sparsity.
+
+---
+
+### 🛠️ Languages & Tools
+`Python` · `C++` · `TypeScript` · `React` · `PyTorch` · `TensorFlow` · `Next.js` · `Node.js` · `OpenAI API` · `LangChain` · `Docker` · `MongoDB`
+
+---
+
+### 🏆 Achievements
+- 🌟 **GitHub Starstruck** achievement  
+- 🧩 Contributed to open-source AI and LLM tooling projects  
+- 🧠 Published research on **LLM reasoning efficiency** and **alignment techniques**
+
+---
+
+### 📫 Connect With Me
+📧 [atharvmnaphade@gmail.com](mailto:atharvmnaphade@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/atharvnaphade)  
+🌐 [OpenAlign](https://github.com/OpenAlign)  
+🐦 [Twitter / X](https://twitter.com/)  
+
+---
+
+> “AI that thinks deeply, not just widely.”
+>
+> — Atharv M. Naphade
