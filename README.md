@@ -59,10 +59,9 @@
 ---
 
 ### 📫 Connect With Me
-📧 [atharvmnaphade@gmail.com](mailto:atharvmnaphade@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/atharvnaphade)  
+📧 [anaphade@andrew.cmu.edu]
+💼 [LinkedIn](https://www.linkedin.com/in/atharv-naphade-211a69219/)  
 🌐 [OpenAlign](https://github.com/OpenAlign)  
-🐦 [Twitter / X](https://twitter.com/)  
 
 ---
 
